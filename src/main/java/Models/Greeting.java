@@ -1,4 +1,4 @@
-package playground;
+package playground.models;
 
 public class Greeting {
 
